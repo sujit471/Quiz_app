@@ -1,16 +1,13 @@
-# quiz_app
+# quiz_app using flutter with the features 
 
-A new Flutter project.
+Home Screen: List of available quizzes or start a new quiz.
 
-## Getting Started
+Quiz Selection: Choose a quiz from the list or start a random quiz.
 
-This project is a starting point for a Flutter application.
+Quiz Questions: Present one question at a time with multiple-choice options.
 
-A few resources to get you started if this is your first Flutter project:
+Answer Submission: Select an option and submit the answer.
+Score Calculation: Track the user's score based on correct answers.
+Result Screen: Show the final score
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User Interface: User-friendly and visually appealing design.
